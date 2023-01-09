@@ -1,0 +1,23 @@
+.choice-contatiner {
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+
+.choice-prefix {
+    padding-left: 20px;
+}
+
+.choice-text {
+    
+}
+
